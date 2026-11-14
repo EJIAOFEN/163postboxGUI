@@ -1,5 +1,8 @@
 # 163postboxGUI
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 在 Windows 上快速登录 网易163免费邮 并收发邮件
 
 如何使用:
